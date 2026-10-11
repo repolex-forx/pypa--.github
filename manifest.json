@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "pypa",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "d2d8249a55a12ce7bfd3ba771a388bf384d8dea4",
+      "parsed_at": "2026-10-11T09:15:44.310362+00:00",
+      "filetree": "filetree/d2d8249a55a12ce7bfd3ba771a388bf384d8dea4.nq.gz",
+      "blobs": [
+        "blob/5837055d0facafb0281320d380c501a403058b87.nq.gz",
+        "blob/5addb5e38cf09b898b2e4797f95e84db5dc88e09.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
